@@ -22,7 +22,7 @@ curl --silent 'https://raw.githubusercontent.com/DavidMChan/custom-alfred-warp-s
 
 #### Acknowledgements
 
-This is based o nthe excelent work by Vítor Galvão for iterm!
+This is based on the excelent work by Vítor Galvão for iterm [here](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)!
 
 #### License
 
