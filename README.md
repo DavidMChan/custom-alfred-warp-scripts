@@ -1,4 +1,4 @@
-# Custom Alfred iTerm Scripts
+# Custom Alfred Warp Scripts
 
 AppleScript for [Warp](https://warp.dev/) [Alfred](https://www.alfredapp.com/) integration.
 
