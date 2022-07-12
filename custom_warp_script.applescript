@@ -52,7 +52,7 @@ on alfred_script(query)
 
 	-- Make sure a window exists before we continue, or the write may fail
 	repeat until has_windows()
-		delay 0.01
+		delay 0.5
 	end repeat
 
 	send_text(query)
