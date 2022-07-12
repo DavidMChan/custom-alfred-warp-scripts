@@ -74,6 +74,7 @@ on alfred_script(query)
 	repeat until has_windows()
 		delay 0.5
 	end repeat
+	delay 0.5
 
 	send_text(query)
 	call_forward()
