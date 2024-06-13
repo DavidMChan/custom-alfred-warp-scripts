@@ -26,4 +26,4 @@ This is based on the excelent work by Vítor Galvão for iterm [here](https://gi
 
 #### License
 
-The Unlicense (Public Domain, essentially)
+MIT License
